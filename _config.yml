@@ -1,0 +1,14 @@
+layout_spectrum: 0.5945328
+typography_spectrum: 0.9779236
+color:
+  saturation: 0.659394
+  lightness: 0.6507475
+  brandStrength: 0.8539937
+  rhythmicContrast: 0.9965092
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: VoltAGE
